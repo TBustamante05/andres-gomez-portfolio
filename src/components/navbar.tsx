@@ -77,7 +77,7 @@ export const Navbar = () => {
             Gallery
           </a>
           <a
-            href="pricing"
+            href="#pricing"
             className={`${aStyle} py-3 text-lg uppercase`}
             onClick={() => setIsMenuOpen(false)}
           >
